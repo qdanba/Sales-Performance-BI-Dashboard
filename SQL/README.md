@@ -1,3 +1,3 @@
 # SQL
 
-This folder contains SQL commands used to inspect and create views for the dashboard making.
+This folder contains SQL commands used to inspect and prepare data for the dashboard making.
